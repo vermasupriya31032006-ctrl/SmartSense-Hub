@@ -16,7 +16,7 @@ A beginner-friendly IoT project developed using ESP32 and the Wokwi simulator. T
 
 The LED is connected to GPIO 2 of the ESP32 and blinks every second. This verifies the basic hardware setup and digital output functionality.
 
-![LED Blink Simulation](images/led_blink_simulation.png)
+
 
 ## Technologies Used
 
