@@ -18,10 +18,8 @@ This project simulates environmental monitoring using a DHT22 sensor connected t
 ## Output
 
 ### Circuit
-(Add your circuit image here.)
-
 ### Serial Monitor
-(Add your serial monitor image here.)
+
 
 ## Technologies Used
 - ESP32
